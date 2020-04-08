@@ -6,6 +6,9 @@ namespace Projeto_Teste
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine( "================================" );
+            
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Tudo bem?");
@@ -13,6 +16,8 @@ namespace Projeto_Teste
             Console.WriteLine("Tchau ");
 
             Console.ReadLine();
+
+            Console.WriteLine("==================================");
         }
     }
 }
